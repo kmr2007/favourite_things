@@ -1,0 +1,36 @@
+html {
+  background-color: lightsteelblue;
+}
+body {
+  background: white center fixed;
+  font-family: "Times New Roman", Times, serif;
+  width: 1030px;
+  height: 1250px;
+  margin: 25px auto;
+  padding: 20px 10px;
+}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: darkslategrey;
+  font-weight: bold;
+  text-decoration: underline;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+}
+a {
+  text-decoration: none;
+  color: darkslategray;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+.center {
+  text-align: center;
+}
